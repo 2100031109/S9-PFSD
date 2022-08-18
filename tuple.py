@@ -1,0 +1,7 @@
+tup1=(5,"hello","PFSD",9.31)
+print(tup1)
+print(tup1[2])
+print(tup1[0:2])
+print(tup1[2:])
+print(tup1*3)
+print(tup1+tup1)
